@@ -4,7 +4,7 @@ A sleek and responsive Netflix homepage clone built using HTML and CSS. This pro
 
 ## 🚀 Features
 
-- Modern Netflix-style UI
+- Modern Netflix-style UI (desktop)
 - Banner section with featured content
 - Rows of movies/posters
 - Hover effects on thumbnails
